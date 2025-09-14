@@ -63,10 +63,26 @@ Currently, I’m diving deep into **Web3** technologies, crafting secure and sca
 ---
 
 ## 🚀 Featured Projects
-- 🎯 **Betting Apps (MERN & Web3)** – Decentralized and secure betting platforms with smart contract integration.  
-- 🔗 **dApps (Decentralized Applications)** – Web3-based apps with blockchain for trustless interactions.  
-- 🛒 **E-commerce Platforms (MERN)** – Seamless UI/UX with blockchain payment options.  
-- 🏢 **Enterprise Applications (MERN & Postgres)** – Large-scale apps with modern UI and scalability.  
-- 🗳 **Voting Systems (MERN & Web3)** – Blockchain-based voting for verifiable results.  
-- 🎨 **Custom Web3 Projects** – NFT marketplaces, token creation, and more using Solidity & Rust.  
-- 📱 **Mobile Applications (React Native)** – Cross-platform apps with high performance and rich UI.  
+⚽ **Real-Time Sports Applications (MERN)**  
+Live scoring apps with API integrations and scalable deployments.  
+
+🛒 **E-commerce Platforms (Next.js, Node.js, MongoDB)**  
+Secure, user-friendly online stores with payment integration.  
+
+🏢 **CRM & Enterprise Applications (MERN, TypeScript, Postgres/MongoDB)**  
+Comprehensive lead management, automation, and business process systems.  
+
+💳 **FinTech & Cryptocurrency Platforms (Next.js, React.js, Web3)**  
+Crypto credit services, installment payments, and secure financial solutions.  
+
+🎓 **Education & Event Management Systems (MERN)**  
+Subscription-based learning platforms with booking and transaction features.  
+
+🌐 **Lead Generation Platforms (Next.js, Node.js)**  
+SEO-optimized, conversion-focused landing pages with CRM integrations.  
+
+🌍 **Metaverse & Gaming Projects (Node.js, TypeScript, Web3)**  
+NFT staking, land-building tools, and decentralized gaming ecosystems.  
+
+🤖 **Blockchain & Smart Contract Solutions (Solidity, Web3)**  
+Flash loan trading bots, arbitrage automation, and DeFi tools.
