@@ -2,7 +2,7 @@
 <p align="center">
   🚀 Senior Full-Stack Engineer &nbsp;|&nbsp; 🤖 AI & Automation &nbsp;|&nbsp; ⛓️ Web3 & Blockchain <br/>
   🛠️ Node.js · Next.js · NestJS · OpenAI · AWS Lambda · Solidity <br/>
-  📍 Lahore, Pakistan &nbsp;·&nbsp; 4+ years building production-grade software
+  📍 Lahore, Pakistan &nbsp;·&nbsp; 5+ years building production-grade software
 </p>
 
 <p align="center">
@@ -83,15 +83,6 @@ I'm a **Senior Full-Stack Engineer** with 4+ years of experience building scalab
 | 🎓 | **Education & Event Platform** | MERN, PostgreSQL | Subscription learning, booking, transaction systems |
 | ⛓️ | **NFT Staking & Web3 Gaming** | Solidity, Web3, NestJS, React | Smart contracts, decentralized gaming ecosystem |
 | 💰 | **DeFi & Flash Loan Bots** | Solidity, Ethers.js, Node.js | Arbitrage automation, flash loan execution, DeFi tools |
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usmanbadanidev&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usmanbadanidev&layout=compact&theme=default&hide_border=true" height="150"/>
-</p>
 
 ---
 
