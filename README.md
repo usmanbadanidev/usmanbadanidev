@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/m-usman-munir" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.upwork.com" target="_blank">
+  <a href="https://www.upwork.com/freelancers/~01c59eb8662023f667?mp_source=share" target="_blank">
     <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white"/>
   </a>
 </p>
