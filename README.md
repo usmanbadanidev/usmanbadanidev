@@ -18,7 +18,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a **Senior Full-Stack Engineer** with 4+ years of experience building scalable, production-ready applications across AI/Automation, Web3, eCommerce, CRM, and FinTech domains.
+I'm a **Senior Full-Stack Engineer** with 5+ years of experience building scalable, production-ready applications across AI/Automation, Web3, eCommerce, CRM, and FinTech domains.
 
 - 🤖 I build **AI-powered applications** — OpenAI integrations, intelligent chat systems, agentic workflows, and automation pipelines
 - ⚡ I architect **serverless & cloud-native backends** on AWS Lambda with high availability and cost efficiency
